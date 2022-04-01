@@ -171,4 +171,8 @@ body {
     justify-content: space-between;
     border-radius: 1rem;
   }
+
+  .card-right h1{
+    margin-bottom: 2rem;
+  }
 }
