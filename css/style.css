@@ -115,7 +115,6 @@ body {
 }
 .card-right .question-group .question-angel .question:hover {
   color: hsl(14, 88%, 65%);
-  
 }
 
 .card-right .question-group .question-angel .question.bold-question {
@@ -125,7 +124,7 @@ body {
 
 .card-right .question-group .content {
   display: none;
-  font-size: .9rem;
+  font-size: 0.9rem;
 }
 
 .card-right .question-group .content.content.d-block {
@@ -173,7 +172,7 @@ body {
     border-radius: 1rem;
   }
 
-  .card-right h1{
+  .card-right h1 {
     margin-bottom: 1.2rem;
   }
 }
