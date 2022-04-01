@@ -125,6 +125,7 @@ body {
 
 .card-right .question-group .content {
   display: none;
+  font-size: .9rem;
 }
 
 .card-right .question-group .content.content.d-block {
